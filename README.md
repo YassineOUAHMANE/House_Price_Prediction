@@ -1,4 +1,4 @@
-## House Price Prediction Dataset
+## House Price Prediction Dataset🏡
 
 ### 📌 Overview
 This dataset contains information about various houses, including their features and sale prices. It is commonly used for building regression models to predict house prices based on different attributes such as area, number of rooms, and location.
@@ -54,5 +54,5 @@ You can use different regression models for price prediction:
 ### 📩 Contact
 
 Contact me to learn and create innovative things! 
-[Here is my mail](yassineouahmane2002@gmail.com)
+Here is my mail: yassineouahmane2002@gmail.com
 
